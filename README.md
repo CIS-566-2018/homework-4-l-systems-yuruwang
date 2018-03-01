@@ -7,9 +7,13 @@ Auther: Yuru Wang
 Rules:
 
 F: draw a branch and move turtal forward
+
 B: draw a trunk
+
 X: rotate turtle about X axis with arbitory degree
+
 Y: rotate turtle about Y axis with arbitory degree
+
 Z: rotate turtle about Z axis with arbitory degree
 
 B - BB
